@@ -17,6 +17,9 @@ npm install
 npm run dev
 ```
 
+Open in:
+http://localhost:5173/dashboard/milestones
+
 
 Template UI taken from:
 [Material Tailwind Dashboard React](http://demos.creative-tim.com/material-tailwind-dashboard-react/#/?ref=readme-mtdr) 
