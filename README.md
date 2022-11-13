@@ -3,6 +3,7 @@
 ## Getting Started:
 1. Clone the repo
 ```
+https://github.com/bebarle/milestones.git
 ```
 
 2. Install dependencies:
